@@ -10,7 +10,7 @@
 ![Screenshot 2024-01-11 062912](https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/e0186d9b-13dc-4f6f-9a9c-12e3e80b0407)
 
 <p align="center">
-  <img href="https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/1e1b7ff5-1522-45e1-a165-7d7f8f6fa566"/>
+  <img src="https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/1e1b7ff5-1522-45e1-a165-7d7f8f6fa566"/>
 </p>
 
 ```
@@ -23,7 +23,7 @@
 ![Screenshot 2024-01-11 063110](https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/b9e06c1e-af57-473b-ba67-a5332ae23bd4)
 
 <p align="center">
-  <img href="https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/10205f45-9332-4684-ad4e-8361937f103d"/>
+  <img src="https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/10205f45-9332-4684-ad4e-8361937f103d"/>
 </p>
 
 ```
