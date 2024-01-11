@@ -63,15 +63,13 @@
   5- If the OTP is expired, return an error message indicating that the OTP has expired.
 
 
-```
-  (Verified)
-```
+`(Verified)`
+
 ![Screenshot 2024-01-11 063203](https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/64462ad5-89b6-4ea6-b51e-e505f81eee14)
 
 
-```
-  (Expired)
-```
+`(Expired)`
+
 ![Screenshot 2024-01-11 063225](https://github.com/Stevenwaheed/Golang_Postgres_API_Test/assets/83607748/f6f45693-09a5-4040-9106-b6161572cc1d)
 
 
