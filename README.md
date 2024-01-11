@@ -1,3 +1,17 @@
+<p align="left">
+  1- Use `pgx` as the PostgreSQL driver: In this project, I used pgx to connect gin API with PostgreSQL to perform some transactions like INSERT, UPDATE, DELETE elsements from tables.
+  
+  2- Use transactions for queries in Golang: Transactions are units of work that consist of multiple database operations that are executed as a single, atomic, and consistent unit. Transactions ensure data      integrity and the ACID properties: Atomicity, Consistency, Isolation, and Durability.
+      BEGIN TRANSACTION or START TRANSACTION: Starts a new transaction.
+      COMMIT: Commits the transaction, making all its changes permanent.
+      ROLLBACK: Rolls back (undoes) the transaction, canceling all its changes.
+
+  3- Utilize `sqlc` to generate type safe Go code from SQL queries: In this project, I used "SQLC" tool, and It's designed to generate type-safe Go code based on SQL queries and schema definitions.
+  4- Implement functions to:
+      Create a new user with proper data validation.   ```POST /api/users```
+      Generate a new OTP for a user.   ```POST /api/users/generateotp```
+      Verify OTP for a user.   ```POST /api/users/verifyotp```
+</p>
 
 
 ```
